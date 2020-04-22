@@ -7,7 +7,8 @@ Assignment Documentation:
 My process was to jump between these two sections until I didn't see any outlier images in a cluster. 
 
 While I manipulated the variables I referenced the elbow plot to evaluate the impact of different variables. 
-I found that using things like artist or title wouldn't help make clusters that made sense. I focused on using 
+I found that using things like artist or title were effective in making the elbow plot sharper, but the clusters
+seemed to make less sense. I focused on using 
 attributes like, area, point, and line. 
 
 When it came to the sillhouette plots I picked each initial plot that didn't fall under the average and tested the 
